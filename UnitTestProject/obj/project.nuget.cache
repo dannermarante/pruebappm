@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "nF7qqSwWfKBhCVhvGoeUgcAt9Ntay+1PuMLQbW5Yr2BTihOdp4KevUZRiTmcj8k6T6+jCERA30LgJW1mgeg/cg==",
+  "success": true,
+  "projectFilePath": "D:\\Prueba PPM\\UnitTestProject\\UnitTestProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dmarante\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
+    "C:\\Users\\dmarante\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
+    "C:\\Users\\dmarante\\.nuget\\packages\\microsoft.net.test.sdk\\16.7.1\\microsoft.net.test.sdk.16.7.1.nupkg.sha512",
+    "C:\\Users\\dmarante\\.nuget\\packages\\mstest.testadapter\\2.1.1\\mstest.testadapter.2.1.1.nupkg.sha512",
+    "C:\\Users\\dmarante\\.nuget\\packages\\mstest.testframework\\2.1.1\\mstest.testframework.2.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

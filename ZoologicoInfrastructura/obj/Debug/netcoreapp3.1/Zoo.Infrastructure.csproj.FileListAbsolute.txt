@@ -1,0 +1,17 @@
+D:\Prueba PPM\ZoologicoInfrastructura\bin\Debug\netcoreapp3.1\Zoo.Infrastructure.deps.json
+D:\Prueba PPM\ZoologicoInfrastructura\bin\Debug\netcoreapp3.1\Zoo.Infrastructure.runtimeconfig.json
+D:\Prueba PPM\ZoologicoInfrastructura\bin\Debug\netcoreapp3.1\Zoo.Infrastructure.runtimeconfig.dev.json
+D:\Prueba PPM\ZoologicoInfrastructura\bin\Debug\netcoreapp3.1\Zoo.Infrastructure.dll
+D:\Prueba PPM\ZoologicoInfrastructura\bin\Debug\netcoreapp3.1\Zoo.Infrastructure.pdb
+D:\Prueba PPM\ZoologicoInfrastructura\bin\Debug\netcoreapp3.1\Zoo.Application.dll
+D:\Prueba PPM\ZoologicoInfrastructura\bin\Debug\netcoreapp3.1\Zoo.Application.pdb
+D:\Prueba PPM\ZoologicoInfrastructura\obj\Debug\netcoreapp3.1\Zoo.Infrastructure.csprojAssemblyReference.cache
+D:\Prueba PPM\ZoologicoInfrastructura\obj\Debug\netcoreapp3.1\Zoo.Infrastructure.AssemblyInfoInputs.cache
+D:\Prueba PPM\ZoologicoInfrastructura\obj\Debug\netcoreapp3.1\Zoo.Infrastructure.AssemblyInfo.cs
+D:\Prueba PPM\ZoologicoInfrastructura\obj\Debug\netcoreapp3.1\Zoo.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Prueba PPM\ZoologicoInfrastructura\obj\Debug\netcoreapp3.1\Zoo.Infrastructure.csproj.CopyComplete
+D:\Prueba PPM\ZoologicoInfrastructura\obj\Debug\netcoreapp3.1\Zoo.Infrastructure.dll
+D:\Prueba PPM\ZoologicoInfrastructura\obj\Debug\netcoreapp3.1\Zoo.Infrastructure.pdb
+D:\Prueba PPM\ZoologicoInfrastructura\obj\Debug\netcoreapp3.1\Zoo.Infrastructure.genruntimeconfig.cache
+D:\Prueba PPM\ZoologicoInfrastructura\bin\Debug\netcoreapp3.1\Zoo.Domain.dll
+D:\Prueba PPM\ZoologicoInfrastructura\bin\Debug\netcoreapp3.1\Zoo.Domain.pdb

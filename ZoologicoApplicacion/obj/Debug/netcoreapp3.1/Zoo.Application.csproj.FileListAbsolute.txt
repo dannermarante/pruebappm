@@ -1,0 +1,12 @@
+D:\Prueba PPM\ZoologicoApplicacion\bin\Debug\netcoreapp3.1\Zoo.Application.deps.json
+D:\Prueba PPM\ZoologicoApplicacion\bin\Debug\netcoreapp3.1\Zoo.Application.dll
+D:\Prueba PPM\ZoologicoApplicacion\bin\Debug\netcoreapp3.1\Zoo.Application.pdb
+D:\Prueba PPM\ZoologicoApplicacion\obj\Debug\netcoreapp3.1\Zoo.Application.csprojAssemblyReference.cache
+D:\Prueba PPM\ZoologicoApplicacion\obj\Debug\netcoreapp3.1\Zoo.Application.AssemblyInfoInputs.cache
+D:\Prueba PPM\ZoologicoApplicacion\obj\Debug\netcoreapp3.1\Zoo.Application.AssemblyInfo.cs
+D:\Prueba PPM\ZoologicoApplicacion\obj\Debug\netcoreapp3.1\Zoo.Application.dll
+D:\Prueba PPM\ZoologicoApplicacion\obj\Debug\netcoreapp3.1\Zoo.Application.pdb
+D:\Prueba PPM\ZoologicoApplicacion\bin\Debug\netcoreapp3.1\Zoo.Domain.dll
+D:\Prueba PPM\ZoologicoApplicacion\bin\Debug\netcoreapp3.1\Zoo.Domain.pdb
+D:\Prueba PPM\ZoologicoApplicacion\obj\Debug\netcoreapp3.1\Zoo.Application.csproj.CopyComplete
+D:\Prueba PPM\ZoologicoApplicacion\obj\Debug\netcoreapp3.1\Zoo.Application.csproj.CoreCompileInputs.cache
